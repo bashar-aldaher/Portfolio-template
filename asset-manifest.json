@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-template/static/css/main.672f0708.css",
+    "main.js": "/Portfolio-template/static/js/main.ffe4ee53.js",
+    "static/media/cv.pdf": "/Portfolio-template/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/Portfolio-template/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio-template/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/me-about.jpg": "/Portfolio-template/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/Portfolio-template/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/fontawesome-webfont.eot": "/Portfolio-template/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Portfolio-template/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Portfolio-template/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/portfolio2.jpg": "/Portfolio-template/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Portfolio-template/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio-template/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/portfolio1.jpg": "/Portfolio-template/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Portfolio-template/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Portfolio-template/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Portfolio-template/index.html",
+    "main.672f0708.css.map": "/Portfolio-template/static/css/main.672f0708.css.map",
+    "main.ffe4ee53.js.map": "/Portfolio-template/static/js/main.ffe4ee53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672f0708.css",
+    "static/js/main.ffe4ee53.js"
+  ]
+}
